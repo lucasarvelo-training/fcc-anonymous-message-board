@@ -1,0 +1,12 @@
+Add add_reply in threads controller. done
+Create replies controller. done
+
+--! test Add and Get before continue ! done
+
+Add delete to controllers Done!
+
+Add report to controllers
+
+fix reply total and hiden values Done!
+
+write tests
